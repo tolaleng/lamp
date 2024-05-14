@@ -12,3 +12,11 @@ Here’s an enhanced version of the LAMP stack installation script that includes
 8. Restart Apache to apply the changes.
    
 You can save this script as lamp_installer-script.sh and run it with sudo bash lamp_installer-script.sh
+------------------------------------------------
+# Running the Script
+
+1. Save or clone the script to a file, lamp_installer-script.sh
+2. Make the script executable:
+chmod +x lamp_installer-script.sh
+3. Run the script with sudo:
+sudo ./lamp_installer-script.sh
