@@ -17,6 +17,6 @@ You can save this script as lamp_installer-script.sh and run it with sudo bash l
 
 1. Save or clone the script to a file, lamp_installer-script.sh
 2. Make the script executable:
-chmod +x lamp_installer-script.sh
+=> chmod +x lamp_installer-script.sh
 3. Run the script with sudo:
-sudo ./lamp_installer-script.sh
+=> sudo ./lamp_installer-script.sh
